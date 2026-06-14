@@ -47,3 +47,5 @@ usando en escencia, solo pilas o colas, demostrando así la flexibilidad en la r
 de problemas siempre y cuando la solución este bien estructurada.
 ## Conclusión 3:
 La combinación de ambas estructuras, tanto pilas como colas, permiten analizar y comparar información de distinta manera, o perspectivas, como lo fue en el caso de la verificación de palíndromos, aprovechando las características FIFO y LIFO de cada estructura para obtener resultados a comodidad de la solución.
+## URL del release
+https://github.com/David-Fajardo-LN/icc-est-u2-Ejercicios-Pilas-Colas/releases/tag/v2.0.2
